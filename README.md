@@ -6,7 +6,7 @@ O grande objetivo é facilitar futuras consultas através de scripts.py simples 
 
 ## Explicação Faiss_load_split.py
 
-[Acesse o script neste link.](colocar link)
+[Acesse o script neste link.](https://github.com/MoisesArruda/FAISS_LangChain_Simple/blob/master/app/Faiss_load_split.py)
 
 Este arquivo foi criado com o objetivo de extrair as informações de um documento PDF e passa-las
 para que o modelo possa armazenar os chunks e transmitir a resposta para o usuário e para um arquivo *.JSON*.
@@ -27,7 +27,7 @@ para que o modelo possa armazenar os chunks e transmitir a resposta para o usuá
 
 ## Explicação Faiss_load.py
 
-[Acesse o script neste link.](colocar link)
+[Acesse o script neste link.](https://github.com/MoisesArruda/FAISS_LangChain_Simple/blob/master/app/Faiss_load.py)
 
 Este arquivo foi criado com o objetivo de extrair as informações de um documento PDF, para que o modelo possa
 armazenar os chunks, realizar o aprendizado, e transmitir a resposta para o usuário e para um arquivo .JSON.
