@@ -1,0 +1,10 @@
+[
+    {
+        "Query": "O que é docker?",
+        "Answer": "Docker é uma ferramenta para criar e manter containers, que são responsáveis por armazenar vários serviços de forma isolada do SO host, como web server, banco de dados, aplicação, memcached, etc. Ele é uma alternativa para virtualização completa e leve se comparada aos hypervisors KVM, Xen e VMware ESXi."
+    },
+    {
+        "Query": "Como criar uma imagem?",
+        "Answer": "Para criar uma imagem no Docker, é necessário criar um arquivo chamado Dockerfile, que contém as instruções para a criação da imagem. Depois, é necessário executar o comando \"docker build\" seguido do caminho para o diretório onde o Dockerfile está localizado. Esse comando irá criar a imagem com base nas instruções contidas no Dockerfile."
+    }
+]

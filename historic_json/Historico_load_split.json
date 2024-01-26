@@ -1,0 +1,10 @@
+[
+    {
+        "Query": "O que é docker?",
+        "Answer": "Docker é uma ferramenta para criar e manter containers, que são responsáveis por armazenar vários serviços de forma isolada do SO host, como web server, banco de dados, aplicação, memcached etc. Ele é baseado em LXC (LinuX Containers) e funciona isolando processos do sistema operacional host. É uma espécie de virtualização bastante leve, pois não faz uso de emulação ou suporte a hardware, apenas proporciona a execução de vários sistemas Linux de forma isolada. Além disso, ele utiliza o mesmo Linux Kernel do servidor host, o que torna tudo muito rápido. Em outras palavras, o Docker é uma alternativa para virtualização completa e leve se comparada aos hypervisors KVM, Xen e VMware ESXi."
+    },
+    {
+        "Query": "O que é uma imagem?",
+        "Answer": "Uma imagem no Docker é um pacote que contém todas as dependências e configurações necessárias para executar um aplicativo. É criada a partir de um Dockerfile, que é um arquivo de texto que contém as instruções para construir a imagem. As imagens são usadas para criar containers, que são instâncias em execução de uma imagem."
+    }
+]
